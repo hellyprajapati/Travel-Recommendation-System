@@ -74,9 +74,8 @@ description facilities and price to make it easier for users to decide where to 
 ---
 
 ## 📸 Screenshots
-homepage
+
 <img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/7e7c11a2-0d19-4bf0-9917-2ad3c7f64710" />
-sample
 <img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/52d11766-9900-440f-981d-898d85df3e59" />  <img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/68fc6fd6-e958-4fb1-b6ef-5f62dd0b12e7" />
 <img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/e03b533c-ec1e-40f1-bc0a-b7d226e476dc" />   <img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/2125961f-e4ee-4795-b767-2e0521852eff" />
 
